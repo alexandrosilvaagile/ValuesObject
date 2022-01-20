@@ -2,7 +2,7 @@
 
 namespace ValuesObject
 {
-    public class Entity
+    public class Class1
     {
     }
 }
